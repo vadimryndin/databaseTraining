@@ -1,0 +1,25 @@
+{
+    "Client": {
+        "Login": "ivanovii",
+        "PasswordHashMD5": "a7dbe3e045acd09a896e0300e55c5fc5",
+        "PhoneNumber": "+375(29)7770301",
+		"Email": "ivanovii@mail.ru",
+        "PurchaseLevel": "Silver",
+        "BonusPoints": "25",
+    },
+	"Order": {
+        "Code": "Iv-001",
+		"CreationDateTime": "2024-05-21",
+		"StoreUpToDateTime": "2024-05-26 17:00",
+		"FinishDateTime": "2024-05-21 17:00",
+		"Quantity": "1",
+		"Cost": "100.00",
+		"Quantity": "1",
+		"FinalCost": "100.00",
+		"Status": "Collected",
+		"ProductPrice": "100.00",
+		"ProductQuantity": "10",
+		"DiscountValue": "5.00",
+		"PickUpAddress": "Minsk, ul.Lenina, 1",
+    }
+}

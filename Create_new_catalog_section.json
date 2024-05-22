@@ -1,0 +1,15 @@
+{
+    "Employee": {
+        "Login": "ivanovii",
+        "PasswordHashMD5": "a7dbe3e045acd09a896e0300e55c5fc5",
+        "FullName": "Иванов Иван Иванович",
+        "PhoneNumber": "+375(29)7770301",
+        "JobPosition": "директор",
+        "ContractExpirationDate": "2025-05-25",
+        "SystemRole": "director"
+    },
+	"CatalogSection": {
+        "Name": "Phone",
+		"ParentSection": "Electronics"
+    },
+}
