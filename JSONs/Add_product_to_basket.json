@@ -1,0 +1,13 @@
+{
+    "Client": {
+        "Login": "clientLogin"
+    },
+    "Basket": {
+        "Client": "client"
+    },
+    "Product": {
+        "Code": "T-001",
+        "Brand": "CoolBrand"
+    },
+    "Quantity": "1"
+}

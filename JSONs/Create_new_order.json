@@ -1,0 +1,22 @@
+{
+    "Client": {
+        "Login": "ivanovii"
+    },
+	"Order": {
+        "Code": "Iv-001",
+		"CreationDateTime": "2024-05-21",
+		"StoreUpToDateTime": "2024-05-26 17:00",
+		"FinishDateTime": "2024-05-21 17:00",
+		"Quantity": "1",
+		"Cost": "100.00",
+		"Quantity": "1",
+		"FinalCost": "100.00",
+		"Status": "Collected",
+		"PickUpAddress": "Minsk, ul.Lenina, 1",
+		"WarhouseAddress":  null
+    },
+	"Product": {
+        "Code": "T-001",
+        "Brand": "CoolBrand"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Employee": {
+        "Login": "ivanovii"
+    },
+	"PickUpPoint": {
+		"Name": "point123",
+		"Address": "Minsk, ul.Lenina, 2",
+		"WorkingTime": "9:00 - 17:00"
+	},
+    "ProcessStartDateTime": "2023-01-20 11:00:00.000"
+}

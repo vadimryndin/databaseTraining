@@ -1,0 +1,21 @@
+{
+    "Guest": {
+        "IP": "201.75.254.40",
+        "SessionDateTime": "2023-01-20 12:00:00.000",    
+        "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0"
+    },
+    "Client": {
+        "Login": "clientLogin",
+        "PasswordHashMD5": "a7dbe3e045acd09a896e0300e55c5fc5",
+        "PhoneNumber": "+375(29)1230301",
+        "EMail": "client@gmail.com",
+        "PurchaseLevel": "gold",
+        "BonusPoints": "10"
+    },
+    "Basket": {
+        "Client": "client",
+        "Product": null,    
+        "ProductQuantity": "0"
+    },
+    "AuthorizationDateTime": "2023-01-20 12:10:00.000"
+}

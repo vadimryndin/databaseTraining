@@ -1,0 +1,11 @@
+{
+    "Employee": {
+        "Login": "ivanovii"
+    },
+	"Warehouse": {
+		"Name": "dpd",
+		"Address": "Minsk, ul.Lenina, 1",
+		"OpeningHours": "9:00 - 17:00"
+	},
+    "ProcessStartDateTime": "2023-01-20 11:00:00.000"
+}

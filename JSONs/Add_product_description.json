@@ -1,0 +1,21 @@
+{
+    "Employee": {
+        "Login": "ivanovii"
+    },
+	"CatalogSection": {
+        "Name": "Phone"
+    },
+	"Product": {
+        "Code": "P-001",
+		"Brand": "Nokia",
+		"Name": "Nokia 3310",
+		"Price": "100,00",
+		"State": "on demand",
+		"Characteristics": [
+			{"name": "Color","value": "black"},
+		  {"name": "Size","value": "M"},
+      {"name": "Weight","value": "200"}
+		]
+  },
+    "ProcessStartDateTime": "2023-01-20 11:00:00.000"
+}

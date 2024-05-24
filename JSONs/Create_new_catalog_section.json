@@ -1,0 +1,11 @@
+{
+    "Employee": {
+        "Login": "ivanovii"
+    },
+	"CatalogSection": {
+        "Name": "Phone"
+    },
+	"ParentCatalogSection": {
+        "Name": "Electronics"
+    }
+}
