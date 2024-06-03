@@ -11,10 +11,10 @@
 		"Name": "Nokia 3310",
 		"Price": "100,00",
 		"State": "on demand",
+		"Weight": "500",
 		"Characteristics": [
 			{"name": "Color","value": "black"},
-		  {"name": "Size","value": "M"},
-      {"name": "Weight","value": "200"}
+			{"name": "Size","value": "M"}
 		]
   },
     "ProcessStartDateTime": "2023-01-20 11:00:00.000"

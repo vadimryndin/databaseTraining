@@ -6,17 +6,34 @@
         "Code": "Iv-001",
 		"CreationDateTime": "2024-05-21",
 		"StoreUpToDateTime": "2024-05-26 17:00",
-		"FinishDateTime": "2024-05-21 17:00",
-		"Quantity": "1",
-		"Cost": "100.00",
-		"Quantity": "1",
-		"FinalCost": "100.00",
-		"Status": "Collected",
-		"PickUpAddress": "Minsk, ul.Lenina, 1",
-		"WarhouseAddress":  null
+		"FinishDateTime": "2024-05-21 17:00"
     },
-	"Product": {
-        "Code": "T-001",
-        "Brand": "CoolBrand"
-    }
-}
+	"Products":[
+        {
+            "Code": "T-001",
+            "Brand": "CoolBrand",
+			"Quantity": "1",
+			"Weight": "200",
+			"Characteristics": [
+                {"name": "Color", "value": "black"},
+                {"name": "Size", "value": "M"}
+            ]
+        },
+        {
+            "Code": "T-002",
+            "Brand": "AnotherBrand",
+			"Quantity": "1",
+			"Weight": "500",
+			"Characteristics": [
+                {"name": "Color", "value": "white"},
+                {"name": "Size", "value": "S"}
+            ]
+        }
+    ],
+	"PickUpPoint": {
+		"Name": "point123"
+	},
+	"Warehouse": {
+		"Name": null
+	}
+} 
