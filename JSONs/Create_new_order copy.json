@@ -1,0 +1,29 @@
+{
+    "Client": {
+        "Login": "clientLogin"
+    },
+	"Order": {
+        "Code": "Iv-001",
+		"CreationDateTime": "2024-05-21",
+		"StoreUpToDateTime": "2024-05-26 17:00",
+		"FinishDateTime": "2024-05-21 17:00"
+    },
+	"Products":[
+        {
+            "Code": "TA-0001",
+			"Brand": "Adidas",
+			"Quantity": "1"
+        },
+        {
+            "Code": "P-004",
+			"Brand": "Apple",
+			"Quantity": "2"
+        }
+    ],
+	"PickUpPoint": {
+		"Name": "point123"
+	},
+	"Warehouse": {
+		"Name": null
+	}
+} 

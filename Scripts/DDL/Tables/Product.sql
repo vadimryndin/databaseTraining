@@ -13,7 +13,7 @@ create table Product
     CatalogSectionID          smallint         null,
     ColorID                   smallint         null,
     SizeID                    smallint         null,
-    WeightID                  smallint         null,
+    Weight                    nvarchar(20)     null,
 
     constraint PK_Product primary key (ProductID)
 );

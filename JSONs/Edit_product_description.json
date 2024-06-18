@@ -6,14 +6,14 @@
         "Name": "Phones"
     },
 	"Product": {
-		"ProductID": "1",
-        "Code": "PF-0001",
+		"ProductID": "3",
+        "Code": "PF-0003",
 		"Name": "Nokia 3310 New",
-		"Price": "40",
+		"Price": "4099",
 		"Weight": "100",
 		"Characteristics": [
-			{"name": "Color","value": "White"},
-			{"name": "Size","value": "M"}
+			{"name": "Color","value": "Blue"},
+			{"name": "Size","value": "S"}
 		]
   	},
   	"Brand": {

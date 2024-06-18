@@ -1,0 +1,17 @@
+{
+    "Employee": {
+        "Login": "ivanovii"
+    },
+    "Product": {
+        "Name": "iPhone 14",
+        "Code": "P-004"
+    },
+    "Warehouse": {
+        "Name": "dpd",
+        "ProductQuantity": "8"
+    },
+    "PickUpPoint": {
+        "Name": "point123",
+        "ProductQuantity": "18"
+    }
+}

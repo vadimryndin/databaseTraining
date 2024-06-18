@@ -1,0 +1,15 @@
+{
+    "Client": {
+        "Login": "clientLogin"
+    },
+	"Order": {
+        "Code": "Iv-002"
+    },
+	"OrderReview": {
+		"Text": "It\'s a 5!"
+	},
+	"CompanyResponse": {
+		"Response": "approved"
+	},
+    "ProcessStartDateTime": "2023-01-20 11:00:00.000"
+}

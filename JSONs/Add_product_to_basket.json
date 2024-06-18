@@ -2,12 +2,9 @@
     "Client": {
         "Login": "clientLogin"
     },
-    "Basket": {
-        "Client": "client"
-    },
     "Product": {
-        "Code": "T-001",
-        "Brand": "CoolBrand"
+        "Code": "PF-0001",
+        "Brand": "Nokia"
     },
     "Quantity": "1"
 }

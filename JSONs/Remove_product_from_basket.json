@@ -1,0 +1,9 @@
+{
+    "Client": {
+        "Login": "boris123Login"
+    },
+    "Product": {
+        "Code": "TA-0001",
+        "Brand": "Adidas"
+    }
+}
